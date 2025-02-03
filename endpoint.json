@@ -1,0 +1,29 @@
+{
+    "auth_mode": "key",
+    "id": "/subscriptions/6fa52f9f-318a-4fac-9f7b-54c0b9a7811b/resourceGroups/lab-dio-ai900/providers/Microsoft.MachineLearningServices/workspaces/AzLearningAI900/onlineEndpoints/azlearningai900-hljlp",
+    "identity": {
+      "principal_id": "c55a079f-34b6-4c5e-b548-212037aa3747",
+      "tenant_id": "8e4879c8-4739-4d05-bc7e-dd7e32a13108",
+      "type": "system_assigned"
+    },
+    "kind": "Managed",
+    "location": "eastus",
+    "mirror_traffic": {},
+    "name": "azlearningai900-hljlp",
+    "openapi_uri": "https://azlearningai900-hljlp.eastus.inference.ml.azure.com/swagger.json",
+    "properties": {
+      "AzureAsyncOperationUri": "https://management.azure.com/subscriptions/6fa52f9f-318a-4fac-9f7b-54c0b9a7811b/providers/Microsoft.MachineLearningServices/locations/eastus/mfeOperationsStatus/oeidp:2ee6537f-a6e6-4b99-a569-cad923f75453:ae6c0fd1-2582-4887-9af3-04a5456586aa?api-version=2022-02-01-preview",
+      "azureml.onlineendpointid": "/subscriptions/6fa52f9f-318a-4fac-9f7b-54c0b9a7811b/resourcegroups/lab-dio-ai900/providers/microsoft.machinelearningservices/workspaces/azlearningai900/onlineendpoints/azlearningai900-hljlp",
+      "createdAt": "2025-02-03T14:11:43.816395+0000",
+      "createdBy": "Mariana Barbosa",
+      "lastModifiedAt": "2025-02-03T14:23:59.468124+0000"
+    },
+    "provisioning_state": "Succeeded",
+    "public_network_access": "enabled",
+    "resourceGroup": "lab-dio-ai900",
+    "scoring_uri": "https://azlearningai900-hljlp.eastus.inference.ml.azure.com/score",
+    "tags": {},
+    "traffic": {
+      "silverovenn05h42-1": 100
+    }
+  }
